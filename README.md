@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajeshwar Roy Roni</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-![Profile Picture](https://avatars.githubusercontent.com/u/35141917?s=48&v=4)
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
